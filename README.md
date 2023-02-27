@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Adnan Akif</h1>
 <h3 align="center">Im a Passionate Self taught Aspiring Data Analyst And A Data Science Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://im3.ezgif.com/tmp/ezgif-3-850477fed0.gif">
+<img align="right" alt="Coding" width="400" src="https://bit.ly/3Y5laxF">
 
 - 🔭 I’m currently working on **Data Analysis Project**
 
